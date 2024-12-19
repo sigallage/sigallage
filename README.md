@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sigallage
-- 👀 I’m interested in ... Full-Stack Development
-- 🌱 I’m currently learning ... at Informatics Institute of Technology
-- 📫 How to reach me ...sgallage0000@gmail.com
-- 😄 Pronouns: ...She/Her
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning at Informatics Institute of Technology
+- 📫 How to reach me sgallage0000@gmail.com
+- 😄 Pronouns: She/Her
 
 
 <!---
