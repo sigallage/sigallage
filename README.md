@@ -34,6 +34,13 @@
 
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Sigallage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigallage&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigallage&layout=compact&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sigallage&theme=github-dark-blue)
+
+
 ### IDEs
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
