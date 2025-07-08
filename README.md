@@ -23,6 +23,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge&logo=ballerina&logoColor=white)
+
 
 ### Databases
 
