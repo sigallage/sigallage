@@ -44,17 +44,17 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Streak Stats  
+### 🔥 GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=sigallage&theme=great-gatsby&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 ---
 
-### 🧮 GitHub Stats
+### 🧮 GitHub Stats (Working Mirror)
 ![GitHub Stats](https://github-readme-stats-git-master-kilanb.vercel.app/api?username=sigallage&show_icons=true&theme=great-gatsby&hide_border=true)
 
 ---
 
-### 🗂️ Top Languages  
+### 🗂️ Top Languages (Working Mirror)
 ![Top Languages](https://github-readme-stats-git-master-kilanb.vercel.app/api/top-langs/?username=sigallage&layout=compact&theme=great-gatsby&hide_border=true)
 
 ---
