@@ -45,7 +45,7 @@
 ## 📊 GitHub Analytics
 
 ### 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sigallage&theme=great-gatsby&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&Border=FFD700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sigallage&theme=great-gatsby&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 ---
 
