@@ -50,12 +50,12 @@
 ---
 
 ### 🧮 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigallage&show_icons=true&theme=great-gatsby&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-master-kilanb.vercel.app/api?username=sigallage&show_icons=true&theme=great-gatsby&hide_border=true)
 
 ---
 
 ### 🗂️ Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigallage&layout=compact&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats-git-master-kilanb.vercel.app/api/top-langs/?username=sigallage&layout=compact&theme=great-gatsby&hide_border=true)
 
 ---
 
