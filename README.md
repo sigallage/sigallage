@@ -49,15 +49,11 @@
 
 ---
 
-### 🧮 GitHub Stats (Working Mirror)
-![GitHub Stats](https://github-readme-stats-git-master-kilanb.vercel.app/api?username=sigallage&show_icons=true&theme=great-gatsby&hide_border=true)
+### 🌟 Custom Awesome Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sigallage?cardType=github&theme=great-gatsby&preferLogin=false&Ring=FFD700&Text=FFD700&Border=FFD700)](https://git.io/awesome-stats-card)
 
 ---
 
-### 🗂️ Top Languages (Working Mirror)
-![Top Languages](https://github-readme-stats-git-master-kilanb.vercel.app/api/top-langs/?username=sigallage&layout=compact&theme=great-gatsby&hide_border=true)
-
----
 
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=sigallage&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
