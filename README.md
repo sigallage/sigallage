@@ -46,10 +46,7 @@
 
 ## 📊 GitHub Stats
 
-![Sigallage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigallage&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigallage&layout=compact&theme=github_dark)
-![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)
-![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev&theme=highcontrast)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sigallage?cardType=github&theme=great-gatsby&preferLogin=false&Ring=FFD700&Text=FFD700)](https://git.io/awesome-stats-card)
 
 ## 🤝 Connect with Me
 
