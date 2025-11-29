@@ -45,7 +45,7 @@
 ## 📊 GitHub Analytics
 
 ### 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sigallage&theme=great-gatsby&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sigallage&theme=great-gatsby&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&Border=FFD700)](https://git.io/streak-stats)
 
 ---
 
@@ -65,10 +65,6 @@
 
 ---
 
-### 🌟 Custom Awesome Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sigallage?cardType=github&theme=great-gatsby&preferLogin=false&Ring=FFD700&Text=FFD700&Border=FFD700)](https://git.io/awesome-stats-card)
-
----
 
 ## 🤝 Connect with Me
 
