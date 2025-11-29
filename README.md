@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sigallage?cardType=github&theme=great-gatsby&preferLogin=false&Ring=FFD700&Text=FFD700)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sigallage?cardType=github&theme=great-gatsby&preferLogin=false&Ring=FFD700&Text=FFD700&Border=FFD700)](https://git.io/awesome-stats-card)
 
 ## 🤝 Connect with Me
 
