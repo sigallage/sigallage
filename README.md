@@ -1,19 +1,21 @@
 # Hey There! I'm Sasanka 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=sigallage&label=Profile%20Views&color=blue&style=for-the-badge)
+
 ---
 
 ## 🙋‍♂️ About Me
 
 - 🚀 Passionate about full stack development, software engineering, and mobile app development.
-- 🎓 Currently studying Computer Science at Informatics Institute of Technology.
-
+- 🎓 Currently studying **Computer Science** at **Informatics Institute of Technology**.
+- 💡 I love building modern, scalable, and user-friendly applications.
+- 🌱 Always learning new technologies to expand my skill set.
 
 ---
 
-## 🛠 Familiar Technologies
+## 🛠 Tech Stack & Tools
 
-### Languages & Frameworks
-
+### **Languages & Frameworks**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,30 +27,54 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge&logo=ballerina&logoColor=white)
 
-
-### Databases
-
+### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Authentication & Security
-
+### **Authentication**
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-### IDEs
-
+### **IDEs**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sigallage&theme=great-gatsby&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
+
+---
+
+### 🧮 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigallage&show_icons=true&theme=great-gatsby&hide_border=true)
+
+---
+
+### 🗂️ Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigallage&layout=compact&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sigallage&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sigallage&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🌟 Custom Awesome Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sigallage?cardType=github&theme=great-gatsby&preferLogin=false&Ring=FFD700&Text=FFD700&Border=FFD700)](https://git.io/awesome-stats-card)
+
+---
 
 ## 🤝 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgallage0000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgallage0000@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasanka-gallage-9861532bb/)
