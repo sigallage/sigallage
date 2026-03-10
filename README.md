@@ -1,17 +1,17 @@
 # Hi, I'm Sasanka 👋  
 
-🎓 Computer Science Undergraduate  
-💻 Full Stack Developer  
-🚀 Aspiring Software Engineer  
+ Computer Science Undergraduate  
+ Full Stack Developer  
+ Aspiring Software Engineer  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💡 Passionate about building scalable and user-friendly applications  
-- 🌱 Currently expanding my skills in full stack & backend development  
-- 📱 Exploring mobile application development  
-- 🎯 Actively preparing for software engineering internship roles  
+-  Passionate about building scalable and user-friendly applications  
+-  Currently expanding my skills in full stack & backend development  
+-  Exploring mobile application development  
+-  Actively preparing for software engineering internship roles  
 
 ---
 
@@ -40,9 +40,9 @@
 
 ## 📌 What I'm Currently Working On
 
-- 🚀 Full stack web applications  
-- 🏗 Backend architecture & API development  
-- 📱 Cross-platform mobile apps  
+-  Full stack web applications  
+-  Backend architecture & API development  
+-  Cross-platform mobile apps  
 
 ---
 
